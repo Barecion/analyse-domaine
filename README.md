@@ -66,4 +66,5 @@ Mes forces:  L'humilité et l'entraide.
 - Mon action d'ici la fin de la session : Faire des concept arts de poster pour construire mon portfolio et travaillé sur les languages de programmations.
 
 ## Ma capsule
-le png!
+<img width="1595" height="1017" alt="Screenshot 2026-11-06 084111" src="https://github.com/user-attachments/assets/ca309970-5885-4c6e-b980-fde6538bc22f" />
+
